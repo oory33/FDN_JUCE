@@ -1,0 +1,2 @@
+build/src/FDN_Reverb_artefacts/Debug/VST3/* filter=lfs diff=lfs merge=lfs -text
+build/src/FDN_Reverb_artefacts/Debug/libFDN[[:space:]]Reverb[[:space:]](Hadamard[[:space:]]Matrix)_SharedCode.a filter=lfs diff=lfs merge=lfs -text

@@ -1,1 +1,13 @@
-build/
+build/libs
+build/CMakeFiles
+build/.cmake
+build/cmake_install.cmake
+build/CMakeCache.txt
+build/Makefile
+build/compile_commands.json
+build/src/CMakeFiles
+build/src/Makefile
+build/src/cmake_install.cmake
+build/src/FDN_Reverb_artefacts/JuceLibraryCode
+build/src/FDN_Reverb_artefacts/Debug/AU
+build/src/FDN_Reverb_artefacts/Debug/Standalone
